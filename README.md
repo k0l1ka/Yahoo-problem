@@ -1,4 +1,4 @@
-This is a project in Numerical Optimization course at MIPT.
+This is a project in Numerical Optimization.
 
 
 Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization that is 
